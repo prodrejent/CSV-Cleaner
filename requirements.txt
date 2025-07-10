@@ -1,1 +1,2 @@
-\npandas\nopenpyxl\n
+pandas
+openpyxl
